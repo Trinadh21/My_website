@@ -1,0 +1,169 @@
+.colit
+{
+    background-image: url('../img/b6.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hiam
+{
+    background-image: url('../img/b4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.trfi
+{
+    background-image: url('../img/b5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.crea
+{
+    background-image: url('../img/b3.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.iam
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.imgmy
+{
+    width: 80vh;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+
+.op1:hover
+{
+    background-color: rgb(21, 206, 219);
+
+    color: turquoise;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 1em;
+}
+
+.navbar-brand{
+    font-family: 'Rock Salt', cursive;
+    font-size: 1em;
+}
+p{
+    padding-right: 4vh;
+    padding-left: 4vh;
+}
+p{
+    font-family: 'Alex Brush', cursive;
+    font-size: 2em;
+}
+
+  
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 75%;
+    border: 2px solid ;
+    margin: auto;
+    padding-left: 5vh;
+    padding-right: 5vh;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 1vh;
+  }
+  td:hover{
+      background-color: lawngreen;
+  }
+  
+  tr:nth-child(even)
+  {
+      background-color: khaki;  
+    }
+tr:nth-child(odd)
+{
+    background-color: rgb(214, 212, 216);
+}
+th{
+    background-color: rgb(23, 166, 209);
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 2vh;
+    right: 3vh;
+    z-index: 99;
+    font-size: 3vh;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 1.0vh;
+    border-radius: 2vh;
+  }
+  .tex
+  {
+      background-color: rgb(198, 162, 233);
+      border-radius: 8vw;
+  }
+  #myBtn:hover {
+    background-color: #555;
+  }
+  #super
+  {
+      background-color: blue;
+      font-family: 'Ultra', serif;
+      color: ivory;
+  }
+  .title
+  {
+    font-family: 'Permanent Marker', cursive;
+  }
+  .mywish
+  {
+      text-align: center;
+      width: 10vh;
+  }
+.stupid
+{
+
+    background-color: rgb(124, 20, 172);
+    text-align: center;
+    display: flex;
+    width: 50vh;
+    display: flex;
+    height: 10vh;
+    border-radius: 8vw;
+}
+.stupid a{
+    -ms-flex: 1;  /* IE 10 */  
+    flex: 1;
+  }
+
+.title:hover
+{
+    font-family: 'Leckerli One', cursive;
+    transform: rotateZ(45);
+}
+.rte
+{
+    font-size: 4vh;
+    font-family: 'Racing Sans One', cursive;
+    color: red;
+}
+.ij
+{
+    background-color: rgb(0, 225, 255);
+    width: 40vh;
+    height: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.trin
+{
+    background-color: blue;
+    color: burlywood;
+}
